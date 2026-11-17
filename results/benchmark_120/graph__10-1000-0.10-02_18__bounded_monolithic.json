@@ -1,0 +1,13 @@
+{
+  "model": "bounded_monolithic",
+  "graph": "graph__10-1000-0.10-02_18.xml",
+  "status": "integer optimal solution",
+  "period": 4574.0,
+  "raw_objective": 4574.0,
+  "solver_time_seconds": 0.5320000001229346,
+  "iterations": null,
+  "error": null,
+  "lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_18__bounded_monolithic.lp",
+  "wall_time_seconds": 1.957,
+  "log": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_18__bounded_monolithic.log"
+}

@@ -1,0 +1,13 @@
+{
+  "model": "bounded_quinton_monolithic",
+  "graph": "graph__10-1000-0.10-02_12.xml",
+  "status": "integer optimal, tolerance",
+  "period": 6462.999999999998,
+  "raw_objective": 0.00015472690700912893,
+  "solver_time_seconds": 0.3119999999180436,
+  "iterations": null,
+  "error": null,
+  "lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_12__bounded_quinton_monolithic.lp",
+  "wall_time_seconds": 2.125,
+  "log": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_12__bounded_quinton_monolithic.log"
+}

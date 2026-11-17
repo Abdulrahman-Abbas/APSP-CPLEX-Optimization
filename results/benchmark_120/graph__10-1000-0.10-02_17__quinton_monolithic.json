@@ -1,0 +1,13 @@
+{
+  "model": "quinton_monolithic",
+  "graph": "graph__10-1000-0.10-02_17.xml",
+  "status": "time limit exceeded",
+  "period": 5055.0,
+  "raw_objective": 0.00019782393669634025,
+  "solver_time_seconds": 120.03099999995902,
+  "iterations": null,
+  "error": null,
+  "lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_17__quinton_monolithic.lp",
+  "wall_time_seconds": 121.649,
+  "log": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_17__quinton_monolithic.log"
+}

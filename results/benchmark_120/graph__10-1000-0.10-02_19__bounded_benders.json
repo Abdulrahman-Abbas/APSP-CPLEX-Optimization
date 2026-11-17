@@ -1,0 +1,16 @@
+{
+  "model": "bounded_benders",
+  "graph": "graph__10-1000-0.10-02_19.xml",
+  "status": "optimal solution",
+  "period": 5060.0,
+  "raw_objective": 5060.0,
+  "solver_time_seconds": 0.5156941413879395,
+  "iterations": 1,
+  "error": null,
+  "master_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_19__bounded_benders_master.lp",
+  "primal_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_19__bounded_benders_primal.lp",
+  "dual_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_19__bounded_benders_dual.lp",
+  "auxiliary_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_19__bounded_benders_auxiliary.lp",
+  "wall_time_seconds": 1.931,
+  "log": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_19__bounded_benders.log"
+}

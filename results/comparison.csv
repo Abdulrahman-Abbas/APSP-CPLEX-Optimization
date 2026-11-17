@@ -1,0 +1,2 @@
+graph,model,status,period,raw_objective,solver_time_seconds,wall_time_seconds,iterations,error,log
+graph__10-1000-0.10-02_0.xml,bounded_monolithic,integer optimal solution,6494.0,6494.0,0.23399999970570207,1.68,,,C:\Users\abood\Downloads\APSP_CPLEX_VSCode_Complete\APSP_CPLEX_VSCode_Complete\results\graph__10-1000-0.10-02_0__bounded_monolithic.log

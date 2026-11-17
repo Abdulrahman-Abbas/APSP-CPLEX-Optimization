@@ -1,0 +1,16 @@
+{
+  "model": "bounded_quinton_benders",
+  "graph": "graph__10-1000-0.10-02_7.xml",
+  "status": "time limit exceeded",
+  "period": 4348.0,
+  "raw_objective": 0.00022999080036798528,
+  "solver_time_seconds": 120.19588565826416,
+  "iterations": 442,
+  "error": null,
+  "master_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_7__bounded_quinton_benders_master.lp",
+  "primal_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_7__bounded_quinton_benders_primal.lp",
+  "dual_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_7__bounded_quinton_benders_dual.lp",
+  "auxiliary_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_7__bounded_quinton_benders_auxiliary.lp",
+  "wall_time_seconds": 121.395,
+  "log": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_7__bounded_quinton_benders.log"
+}

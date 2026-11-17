@@ -1,0 +1,16 @@
+{
+  "model": "quinton_benders",
+  "graph": "graph__10-1000-0.10-02_4.xml",
+  "status": "optimal solution",
+  "period": 7141.000000000001,
+  "raw_objective": 0.00014003640946646127,
+  "solver_time_seconds": 39.33991551399231,
+  "iterations": 130,
+  "error": null,
+  "master_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_4__quinton_benders_master.lp",
+  "primal_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_4__quinton_benders_primal.lp",
+  "dual_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_4__quinton_benders_dual.lp",
+  "auxiliary_lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_4__quinton_benders_auxiliary.lp",
+  "wall_time_seconds": 40.536,
+  "log": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_4__quinton_benders.log"
+}

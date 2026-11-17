@@ -1,0 +1,13 @@
+{
+  "model": "quinton_monolithic",
+  "graph": "graph__10-1000-0.10-02_18.xml",
+  "status": "integer optimal solution",
+  "period": 4571.664708350818,
+  "raw_objective": 0.0002187387010629526,
+  "solver_time_seconds": 2.969000000040978,
+  "iterations": null,
+  "error": null,
+  "lp_file": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_18__quinton_monolithic.lp",
+  "wall_time_seconds": 4.338,
+  "log": "C:\\Users\\abood\\Downloads\\APSP_CPLEX_VSCode_Complete\\APSP_CPLEX_VSCode_Complete\\results\\benchmark_120\\graph__10-1000-0.10-02_18__quinton_monolithic.log"
+}
